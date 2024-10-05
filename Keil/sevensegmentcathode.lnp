@@ -1,0 +1,4 @@
+"STARTUP.obj",
+"sevseg.obj" 
+TO "sevensegmentcathode" 
+RAMSIZE(256) 
